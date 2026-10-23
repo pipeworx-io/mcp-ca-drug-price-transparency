@@ -10,7 +10,7 @@ import pack from './index.js';
 
 
 const server = new Server(
-  { name: '@pipeworx/mcp-ca-drug-price-transparency', version: '0.1.0' },
+  { name: '@pipeworx/mcp-ca-drug-price-transparency', version: '0.1.1' },
   { capabilities: { tools: {} } },
 );
 
