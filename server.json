@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ca-drug-price-transparency",
   "title": "Ca Drug Price Transparency",
   "description": "California manufacturer drug list-price (WAC) disclosures — HCAI Cost Transparency Rx (CTRx)…",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/ca-drug-price-transparency",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ca-drug-price-transparency",
