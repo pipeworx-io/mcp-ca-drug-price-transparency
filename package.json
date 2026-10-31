@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ca-drug-price-transparency",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "California manufacturer drug list-price (WAC) disclosures — HCAI Cost Transparency Rx (CTRx) program (fleet #3245).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ca-drug-price-transparency",
     "gatewaySlug": "ca-drug-price-transparency",
-    "sourceHash": "v1-cdd19f1005b906551bb1ab5478863d415bde5d40fb7ad41ed1ad4fe4bedf325f",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-b4717ed2234b1f11cd2d3615aeec9ac0f77950e343743f78a934872e774653be",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
